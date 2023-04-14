@@ -1,0 +1,30 @@
+mqttReader_autogen/timestamp: \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeCXXInformation.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeParseArguments.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/Compiler/GNU.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/Platform/Linux-GNU-CXX.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/Platform/Linux-GNU.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/Platform/Linux.cmake \
+  /home/dylan/Qt/Tools/CMake/share/cmake-3.24/Modules/Platform/UnixPaths.cmake \
+  .qtc/package-manager/auto-setup.cmake \
+  CMakeFiles/3.24.2/CMakeCXXCompiler.cmake \
+  CMakeFiles/3.24.2/CMakeSystem.cmake \
+  /home/dylan/mqttEmbeded/mqttReader/CMakeLists.txt \
+  /home/dylan/mqttEmbeded/mqttReader/main.cpp \
+  /usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake \
+  /usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake \
+  /usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake \
+  /usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake \
+  /usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake \
+  /usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake \
+  /usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake \
+  /usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake \
+  /home/dylan/Qt/Tools/CMake/bin/cmake
